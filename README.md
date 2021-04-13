@@ -1,4 +1,4 @@
 # compilateur
 
-BENAZZOUZ Abir \n
+BENAZZOUZ Abir
 BONNEAU Clémentine
